@@ -116,6 +116,7 @@ hr {
 pre {
   font-family: monospace, monospace;
   font-size: 1em;
+  color: #fff;
 }
 
 a:active, a:hover {
@@ -1043,6 +1044,7 @@ body {
 }
 .article-content table th, .article-content table td {
   padding: .2em .5em;
+  background: plum;
 }
 
 .article-meta {
